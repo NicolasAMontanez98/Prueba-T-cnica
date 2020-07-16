@@ -1,0 +1,20 @@
+body {
+    background-image: url(backlit-beach-dawn-dusk-240514.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    margin-top: 160px;
+    border: #ffffff 5px solid;
+    border-radius: 150px;
+}
+.texto {
+    font-family: 'Bebas Neue', cursive;
+    color: #000000;
+    text-align: center;
+    margin: auto;
+}
